@@ -4,4 +4,9 @@
     "name": "English",
     "country": "United States"
   }
+  {
+    "code": "ja_JP",
+    "name": "Japanese",
+    "country": "Japan"
+  }, 
 ]
